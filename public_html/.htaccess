@@ -1,0 +1,57 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^Lien-He/$ index.php?p=contact [L]
+RewriteRule ^Tin-Tuc/$ index.php?p=news [L]
+RewriteRule ^Du-An/$ index.php?p=project [L]
+
+#Rewrite GIOI THIEU
+RewriteRule ^Gioi-Thieu/Thiet-Ke-San-Xuat-Lap-Dung/Detail/(.*)/$ index.php?p=design&url=$1 [L]
+RewriteRule ^Gioi-Thieu/Thiet-Ke-San-Xuat-Lap-Dung/(.*)/$ index.php?p=design_list&url=$1 [L]
+RewriteRule ^Gioi-Thieu/Thiet-Ke-San-Xuat-Lap-Dung/$ index.php?p=tk_sx_ld [L]
+RewriteRule ^Gioi-Thieu/Hinh-Anh/(.*)/$ index.php?p=images&url=$1 [L]
+RewriteRule ^Gioi-Thieu/Hinh-Anh/$ index.php?p=images_list [L]
+RewriteRule ^Gioi-Thieu/Nhan-Su/(.*)/$ index.php?p=hr_detail&url=$1 [L]
+RewriteRule ^Gioi-Thieu/Gia-Tri/$ index.php?p=values [L]
+RewriteRule ^Gioi-Thieu/Gia-Tri/Chinh-Sach-Hoat-Dong/$ index.php?p=operation_policy [L]
+RewriteRule ^Gioi-Thieu/Gia-Tri/Chinh-Sach-An-Toan-Lao-Dong/$ index.php?p=safety_policy [L]
+RewriteRule ^Gioi-Thieu/Gia-Tri/Chinh-Sach-Chat-Luong/$ index.php?p=quality_policy [L]
+RewriteRule ^Gioi-Thieu/(.*)/$ index.php?p=introduction_detail&url=$1 [L]
+
+#Rewrite SAN PHAM
+RewriteRule ^San-Pham/(.*)/$ index.php?p=product&url=$1 [L]
+RewriteRule ^San-Pham/$ index.php?p=product_list [L]
+
+#Rewrite DU AN
+RewriteRule ^Du-An/Du-An-Da-Thuc-Hien/Tags/(.*)/(.*)/$ index.php?p=project&url_type=Du-An-Da-Thuc-Hien&url_tag=$1&pageNum=$2 [L]
+RewriteRule ^Du-An/Du-An-Da-Thuc-Hien/Tags/(.*)/$ index.php?p=project&url_type=Du-An-Da-Thuc-Hien&url_tag=$1&pageNum=1 [L]
+RewriteRule ^Du-An/Du-An-Da-Thuc-Hien/(.*)/$ index.php?p=project&url_type=Du-An-Da-Thuc-Hien&pageNum=$1 [L]
+RewriteRule ^Du-An/Du-An-Da-Thuc-Hien/$ index.php?p=project&url_type=Du-An-Da-Thuc-Hien&pageNum=1 [L]
+
+RewriteRule ^Du-An/Du-An-Dang-Thuc-Hien/(.*)/$ index.php?p=project&url_type=Du-An-Dang-Thuc-Hien&pageNum=$1 [L]
+RewriteRule ^Du-An/Du-An-Dang-Thuc-Hien/$ index.php?p=project&url_type=Du-An-Dang-Thuc-Hien&pageNum=1 [L]
+
+RewriteRule ^Du-An/Detail/(.*)/$ index.php?p=project_detail&url=$1 [L]
+
+#Rewrite TIN TUC
+RewriteRule ^Tin-Tuc/Detail/(.*)/$ index.php?p=news_detail&url=$1 [L]
+RewriteRule ^Tin-Tuc/Cat/(.*)/(.*)/$ index.php?p=news&url=$1&pageNum=$2 [L]
+RewriteRule ^Tin-Tuc/Cat/(.*)/$ index.php?p=news&url=$1&pageNum=1 [L]
+
+RewriteRule ^Tin-Tuc/(.*)/$ index.php?p=news&pageNum=$1 [L]
+RewriteRule ^Tin-Tuc/$ index.php?p=news&pageNum=1 [L]
+
+RewriteRule ^Khach-Hang-Danh-Gia/$ index.php?p=khachhangdanhgia [L]
+RewriteRule ^Chung-Nhan-Giai-Thuong/$ index.php?p=certificate [L]
+RewriteRule ^Nang-Luc/Ho-So-Nang-Luc/$ index.php?p=capacity_profile [L]
+RewriteRule ^Nang-Luc/Catalogue/$ index.php?p=catalogue [L]
+RewriteRule ^Nang-Luc/Catalogue/View/$ http://truongphusteel.vn/HSNL/web/viewer.html?file=catalogue.pdf [L]
+RewriteRule ^Nang-Luc/Ho-So-Nang-Luc/View/VN/$ http://truongphusteel.vn/HSNL/web/viewer.html?file=HSNL-VN.pdf [L]
+RewriteRule ^Nang-Luc/Ho-So-Nang-Luc/View/ENG/$ http://truongphusteel.vn/HSNL/web/viewer.html?file=HSNL-ENG.pdf [L]
+RewriteRule ^Nang-Luc/Uu-Diem/$ index.php?p=advantage [L]
+RewriteRule ^Nang-Luc/Linh-Vuc-Hoat-Dong/$ index.php?p=scope_work [L]
+
+ErrorDocument 404 /404.php
+AddDefaultCharset UTF-8

@@ -1,0 +1,676 @@
+[15-Jun-2014 10:29:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:29:56] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:29:56] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:29:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:29:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:30:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:32:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:32:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:32:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:32:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:32:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:32:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:32:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:32:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:32:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:32:47] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:32:47] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:32:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:32:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:33:01] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:01] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:33:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:33:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:33:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:33:02] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:02] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:33:49] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:49] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:33:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:33:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:33:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:33:50] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:50] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:33:53] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:53] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:33:59] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:59] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:33:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:33:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:33:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:33:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:34:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:00] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:00] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:40] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:40] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:53] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:53] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/login.php on line 9
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/truongph/public_html/qlkh/login.php on line 10
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'tphu'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:34:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[15-Jun-2014 10:42:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'truongphu_quytv'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/classDB.php on line 14
+[15-Jun-2014 10:42:16] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/classDB.php on line 15
+[15-Jun-2014 10:42:16] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/classDB.php on line 15
+[15-Jun-2014 10:42:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/classDB.php on line 16
+[15-Jun-2014 10:42:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/classDB.php on line 16
+[15-Jun-2014 10:42:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/classDB.php on line 532
+[15-Jun-2014 10:42:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/classDB.php on line 532
+[15-Jun-2014 10:44:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'truongphu_quytv'@'localhost' (using password: YES) in /home/truongph/public_html/qlkh/classDB.php on line 14
+[15-Jun-2014 10:44:31] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/classDB.php on line 15
+[15-Jun-2014 10:44:31] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/classDB.php on line 15
+[15-Jun-2014 10:44:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/classDB.php on line 16
+[15-Jun-2014 10:44:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/classDB.php on line 16
+[15-Jun-2014 10:44:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/classDB.php on line 532
+[15-Jun-2014 10:44:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/classDB.php on line 532
+[13-Oct-2014 19:29:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/truongph/public_html/qlkh/db-connect.php on line 2
+[13-Oct-2014 19:29:24] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[13-Oct-2014 19:29:24] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 3
+[13-Oct-2014 19:29:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'truongph'@'localhost' (using password: NO) in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[13-Oct-2014 19:29:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/truongph/public_html/qlkh/db-connect.php on line 4
+[07-May-2015 21:36:07] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-May-2015 21:36:07] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[08-May-2015 16:20:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[08-May-2015 16:20:06] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[08-May-2015 16:20:06] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[11-May-2015 08:57:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[11-May-2015 08:57:19] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[11-May-2015 08:57:19] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[11-May-2015 19:53:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[11-May-2015 19:53:47] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[11-May-2015 19:53:47] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[12-May-2015 19:12:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[12-May-2015 19:12:48] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[12-May-2015 19:12:48] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[14-May-2015 00:34:29] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[14-May-2015 00:34:32] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[14-May-2015 00:34:32] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[14-May-2015 19:05:57] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[16-May-2015 07:04:14] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[16-May-2015 07:04:14] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[18-May-2015 01:19:59] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[18-May-2015 01:19:59] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[20-May-2015 21:29:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[20-May-2015 21:29:42] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[20-May-2015 21:29:42] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[22-May-2015 06:20:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[22-May-2015 19:35:11] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[22-May-2015 19:35:11] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[22-May-2015 20:10:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[22-May-2015 20:10:34] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[22-May-2015 20:10:34] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[22-May-2015 20:11:34] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[22-May-2015 20:11:34] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[23-May-2015 09:44:00] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[23-May-2015 09:44:00] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[24-May-2015 14:01:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[24-May-2015 14:02:17] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[24-May-2015 14:02:17] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[24-May-2015 15:46:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[24-May-2015 15:47:42] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[24-May-2015 15:47:42] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[24-May-2015 23:03:09] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[24-May-2015 23:03:09] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[24-May-2015 23:40:40] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[24-May-2015 23:40:40] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[25-May-2015 07:16:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[25-May-2015 07:16:04] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[25-May-2015 07:16:04] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[27-May-2015 05:21:39] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[27-May-2015 05:21:39] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[27-May-2015 05:21:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[27-May-2015 21:50:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[27-May-2015 21:50:15] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[27-May-2015 21:50:15] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[27-May-2015 21:59:23] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[27-May-2015 21:59:30] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[27-May-2015 21:59:30] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[29-May-2015 20:37:55] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[29-May-2015 20:37:55] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[29-May-2015 22:05:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[29-May-2015 22:05:40] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[29-May-2015 22:05:40] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[29-May-2015 22:07:25] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[29-May-2015 22:07:25] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[30-May-2015 13:07:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[30-May-2015 13:07:50] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[30-May-2015 13:07:50] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[30-May-2015 13:09:04] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[30-May-2015 13:09:04] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[31-May-2015 16:07:27] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[31-May-2015 16:07:27] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[01-Jun-2015 13:17:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[03-Jun-2015 06:28:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[03-Jun-2015 06:28:52] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[03-Jun-2015 06:28:52] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[04-Jun-2015 12:33:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jun-2015 12:33:35] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Jun-2015 12:33:35] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[04-Jun-2015 12:34:14] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jun-2015 12:34:26] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Jun-2015 12:34:26] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[05-Jun-2015 01:15:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[05-Jun-2015 01:15:04] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[05-Jun-2015 01:15:04] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[05-Jun-2015 01:19:01] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[05-Jun-2015 01:19:02] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[05-Jun-2015 01:19:02] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jun-2015 08:06:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[07-Jun-2015 08:06:46] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-Jun-2015 08:06:46] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jun-2015 08:08:24] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-Jun-2015 08:08:24] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jun-2015 12:42:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[12-Jun-2015 07:32:35] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[12-Jun-2015 07:32:35] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[12-Jun-2015 21:06:59] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[12-Jun-2015 21:07:07] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[12-Jun-2015 21:07:07] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[12-Jun-2015 21:07:35] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[12-Jun-2015 21:07:37] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[12-Jun-2015 21:09:15] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[12-Jun-2015 21:09:15] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[12-Jun-2015 21:10:06] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[12-Jun-2015 21:10:06] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[12-Jun-2015 21:12:27] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[12-Jun-2015 21:13:57] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[12-Jun-2015 21:13:57] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[14-Jun-2015 04:33:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[14-Jun-2015 04:33:49] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[14-Jun-2015 04:33:49] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[15-Jun-2015 15:56:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[15-Jun-2015 15:57:01] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[15-Jun-2015 15:57:01] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[15-Jun-2015 15:58:29] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[15-Jun-2015 15:58:29] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[16-Jun-2015 01:43:37] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[16-Jun-2015 01:43:50] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[16-Jun-2015 01:43:50] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[17-Jun-2015 07:38:41] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[17-Jun-2015 07:38:41] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[22-Jun-2015 01:28:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[22-Jun-2015 01:28:09] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[22-Jun-2015 01:28:09] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[23-Jun-2015 01:42:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[24-Jun-2015 01:20:23] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[24-Jun-2015 15:00:54] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[24-Jun-2015 15:00:54] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[25-Jun-2015 22:24:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[25-Jun-2015 22:24:08] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[25-Jun-2015 22:24:08] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Jun-2015 01:35:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Jun-2015 01:35:05] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Jun-2015 01:35:05] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Jun-2015 13:03:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Jun-2015 19:35:35] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Jun-2015 19:35:41] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Jun-2015 19:35:41] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Jun-2015 19:37:01] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Jun-2015 19:37:01] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[27-Jun-2015 04:04:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[27-Jun-2015 04:04:48] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[27-Jun-2015 04:04:48] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[27-Jun-2015 04:05:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[27-Jun-2015 04:05:57] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[27-Jun-2015 04:05:57] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[27-Jun-2015 04:20:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[27-Jun-2015 04:20:34] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[27-Jun-2015 04:20:34] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[04-Jul-2015 00:58:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jul-2015 03:09:54] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Jul-2015 03:09:54] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[04-Jul-2015 05:14:59] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jul-2015 05:15:02] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Jul-2015 05:15:02] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[05-Jul-2015 00:58:29] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[05-Jul-2015 00:58:33] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[05-Jul-2015 00:58:33] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[06-Jul-2015 09:27:47] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[06-Jul-2015 09:27:47] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jul-2015 02:54:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[07-Jul-2015 02:54:01] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-Jul-2015 02:54:01] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jul-2015 02:55:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[07-Jul-2015 02:55:59] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-Jul-2015 02:55:59] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jul-2015 03:19:49] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[07-Jul-2015 03:19:51] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-Jul-2015 03:19:51] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jul-2015 03:20:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[07-Jul-2015 03:22:24] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-Jul-2015 03:22:24] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jul-2015 07:22:28] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-Jul-2015 07:22:28] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[08-Jul-2015 09:03:49] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[08-Jul-2015 09:03:55] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[08-Jul-2015 09:03:55] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[08-Jul-2015 09:04:20] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[08-Jul-2015 09:04:20] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[09-Jul-2015 16:31:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[09-Jul-2015 16:31:39] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[09-Jul-2015 16:31:39] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[10-Jul-2015 01:08:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[10-Jul-2015 01:08:49] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[10-Jul-2015 01:08:49] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[12-Jul-2015 17:35:01] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[12-Jul-2015 17:35:01] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[12-Jul-2015 17:35:01] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[13-Jul-2015 01:27:15] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[13-Jul-2015 01:27:15] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[13-Jul-2015 03:17:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[13-Jul-2015 03:17:06] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[13-Jul-2015 03:17:06] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[13-Jul-2015 03:34:59] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[13-Jul-2015 03:35:00] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[13-Jul-2015 03:35:00] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[13-Jul-2015 16:48:21] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[13-Jul-2015 16:48:27] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[13-Jul-2015 16:48:27] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[13-Jul-2015 16:49:10] PHP Notice:  Undefined index:  email in /home/truongph/public_html/qlkh/login.php on line 113
+[13-Jul-2015 16:49:10] PHP Notice:  Undefined index:  password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Nov-2015 09:32:32 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 09:32:32 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Nov-2015 09:32:35 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 09:32:35 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Nov-2015 09:32:35 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Nov-2015 09:48:45 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 09:48:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Nov-2015 09:48:47 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 09:48:47 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Nov-2015 09:48:47 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Nov-2015 14:09:16 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 14:09:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Nov-2015 14:09:42 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 14:09:42 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Nov-2015 14:09:42 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Nov-2015 20:16:56 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 20:16:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Nov-2015 20:16:59 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 20:17:00 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Nov-2015 20:17:00 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Nov-2015 20:20:51 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 20:20:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Nov-2015 20:20:53 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Nov-2015 20:20:53 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Nov-2015 20:20:53 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[27-Nov-2015 03:05:24 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[27-Nov-2015 03:05:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[27-Nov-2015 03:05:25 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[27-Nov-2015 03:05:25 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[27-Nov-2015 03:05:25 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[27-Nov-2015 11:26:33 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[27-Nov-2015 11:26:33 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[27-Nov-2015 11:26:33 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[27-Nov-2015 11:26:33 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[27-Nov-2015 11:26:33 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[28-Nov-2015 10:45:46 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[28-Nov-2015 10:45:47 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[28-Nov-2015 10:45:49 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[28-Nov-2015 10:45:49 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[28-Nov-2015 10:45:49 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[29-Nov-2015 04:02:53 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Nov-2015 04:02:53 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[29-Nov-2015 04:02:54 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Nov-2015 04:02:54 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[29-Nov-2015 04:02:54 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[29-Nov-2015 04:02:55 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Nov-2015 04:02:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[29-Nov-2015 04:02:55 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Nov-2015 04:02:55 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[29-Nov-2015 04:02:55 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[30-Nov-2015 02:20:43 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[30-Nov-2015 02:20:43 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[30-Nov-2015 05:46:20 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[30-Nov-2015 05:46:21 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[30-Nov-2015 05:46:23 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[30-Nov-2015 05:46:23 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[30-Nov-2015 05:46:23 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[30-Nov-2015 18:51:44 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[30-Nov-2015 18:51:45 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[30-Nov-2015 18:51:45 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[30-Nov-2015 18:52:00 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[30-Nov-2015 18:52:00 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[30-Nov-2015 18:52:00 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[02-Dec-2015 08:48:34 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Dec-2015 08:48:34 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[02-Dec-2015 08:48:34 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[02-Dec-2015 13:50:52 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Dec-2015 13:50:52 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[02-Dec-2015 13:50:57 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Dec-2015 13:50:57 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[02-Dec-2015 13:50:57 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[03-Dec-2015 00:45:20 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Dec-2015 00:45:20 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[03-Dec-2015 00:45:20 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[03-Dec-2015 00:45:32 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Dec-2015 00:45:32 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[03-Dec-2015 00:45:32 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[03-Dec-2015 09:12:28 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Dec-2015 09:12:28 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[03-Dec-2015 09:12:29 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Dec-2015 09:12:29 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[03-Dec-2015 09:12:29 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[03-Dec-2015 23:44:15 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Dec-2015 23:44:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[03-Dec-2015 23:44:16 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Dec-2015 23:44:16 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[03-Dec-2015 23:44:16 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[04-Dec-2015 09:29:24 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Dec-2015 09:29:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Dec-2015 09:29:29 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Dec-2015 09:29:29 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Dec-2015 09:29:29 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[04-Dec-2015 17:48:39 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Dec-2015 17:48:39 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Dec-2015 17:48:43 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Dec-2015 17:48:43 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Dec-2015 17:48:43 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[04-Dec-2015 19:10:07 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Dec-2015 19:10:07 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Dec-2015 19:10:07 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[05-Dec-2015 09:02:23 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[05-Dec-2015 09:02:23 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[05-Dec-2015 09:02:23 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[08-Dec-2015 17:15:56 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Dec-2015 17:15:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[08-Dec-2015 23:46:34 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Dec-2015 23:46:34 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[08-Dec-2015 23:46:37 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Dec-2015 23:46:37 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[08-Dec-2015 23:46:37 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[09-Dec-2015 01:18:20 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[09-Dec-2015 01:18:20 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[09-Dec-2015 12:52:24 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[09-Dec-2015 12:52:25 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[09-Dec-2015 12:52:25 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[11-Dec-2015 06:46:11 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[11-Dec-2015 06:46:11 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[11-Dec-2015 06:46:13 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[11-Dec-2015 06:46:14 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[11-Dec-2015 06:46:14 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[11-Dec-2015 15:15:15 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[11-Dec-2015 15:15:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[13-Dec-2015 09:45:07 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[13-Dec-2015 09:45:07 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[13-Dec-2015 09:45:09 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[13-Dec-2015 09:45:09 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[13-Dec-2015 09:45:09 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[13-Dec-2015 18:01:25 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[13-Dec-2015 18:01:25 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[13-Dec-2015 18:01:25 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[14-Dec-2015 01:14:31 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[14-Dec-2015 01:14:31 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[16-Dec-2015 01:18:24 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 01:18:24 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[16-Dec-2015 01:18:24 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[16-Dec-2015 03:38:32 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 03:38:32 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[16-Dec-2015 03:38:33 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 03:38:33 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[16-Dec-2015 03:38:33 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[16-Dec-2015 03:38:35 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 03:38:35 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[16-Dec-2015 03:38:36 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 03:38:36 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[16-Dec-2015 03:38:36 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[16-Dec-2015 04:45:06 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 04:45:06 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[16-Dec-2015 04:45:08 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 04:45:08 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[16-Dec-2015 04:45:08 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[16-Dec-2015 12:51:21 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 12:51:21 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[16-Dec-2015 12:51:21 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[16-Dec-2015 23:56:42 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 23:56:42 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[16-Dec-2015 23:56:43 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[16-Dec-2015 23:56:43 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[16-Dec-2015 23:56:43 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[17-Dec-2015 19:28:15 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[17-Dec-2015 19:28:15 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[18-Dec-2015 08:44:50 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[18-Dec-2015 08:44:50 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[18-Dec-2015 08:44:52 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[18-Dec-2015 08:44:52 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[18-Dec-2015 08:44:52 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[18-Dec-2015 08:44:54 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[18-Dec-2015 08:44:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[18-Dec-2015 08:44:56 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[18-Dec-2015 08:44:56 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[18-Dec-2015 08:44:56 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[19-Dec-2015 04:46:37 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[19-Dec-2015 04:46:37 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[19-Dec-2015 04:46:37 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[19-Dec-2015 09:10:39 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[19-Dec-2015 09:10:39 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[19-Dec-2015 09:10:40 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[19-Dec-2015 09:10:40 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[19-Dec-2015 09:10:40 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[20-Dec-2015 11:45:32 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[20-Dec-2015 11:45:32 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[20-Dec-2015 11:45:34 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[20-Dec-2015 11:45:34 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[20-Dec-2015 11:45:34 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[21-Dec-2015 10:51:02 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Dec-2015 10:51:02 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[21-Dec-2015 10:51:10 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Dec-2015 10:51:10 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[21-Dec-2015 10:51:10 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[21-Dec-2015 10:52:16 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Dec-2015 10:52:16 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[21-Dec-2015 10:52:16 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[22-Dec-2015 19:30:45 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Dec-2015 19:30:45 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[22-Dec-2015 19:30:47 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Dec-2015 19:30:47 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[22-Dec-2015 19:30:47 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[24-Dec-2015 15:48:04 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[24-Dec-2015 15:48:04 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[24-Dec-2015 15:48:06 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[24-Dec-2015 15:48:06 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[24-Dec-2015 15:48:06 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[25-Dec-2015 12:33:51 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[25-Dec-2015 12:33:51 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[25-Dec-2015 12:34:26 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[25-Dec-2015 12:34:26 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[25-Dec-2015 12:34:26 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Dec-2015 08:06:54 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 08:06:54 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Dec-2015 08:06:55 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 08:06:55 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Dec-2015 08:06:55 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Dec-2015 08:26:04 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 08:26:04 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Dec-2015 08:26:16 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 08:26:16 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Dec-2015 08:26:16 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Dec-2015 09:23:19 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 09:23:19 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Dec-2015 09:23:20 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 09:23:20 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Dec-2015 09:23:20 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Dec-2015 09:24:09 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 09:24:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Dec-2015 09:24:09 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 09:24:09 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Dec-2015 09:24:09 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Dec-2015 09:26:38 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 09:26:38 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Dec-2015 09:26:39 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 09:26:39 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Dec-2015 09:26:39 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[26-Dec-2015 17:50:02 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 17:50:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[26-Dec-2015 17:50:05 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2015 17:50:05 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[26-Dec-2015 17:50:05 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[29-Dec-2015 19:06:37 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Dec-2015 19:06:37 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[29-Dec-2015 19:06:37 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[01-Jan-2016 05:14:56 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Jan-2016 05:14:56 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[01-Jan-2016 05:14:58 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Jan-2016 05:14:58 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[01-Jan-2016 05:14:58 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[02-Jan-2016 12:18:08 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Jan-2016 12:18:09 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[02-Jan-2016 12:18:09 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Jan-2016 12:18:10 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[02-Jan-2016 12:18:10 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[02-Jan-2016 21:28:00 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Jan-2016 21:28:00 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[02-Jan-2016 21:28:02 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Jan-2016 21:28:02 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[02-Jan-2016 21:28:02 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[02-Jan-2016 23:46:42 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Jan-2016 23:46:42 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[02-Jan-2016 23:46:56 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[02-Jan-2016 23:46:56 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[02-Jan-2016 23:46:56 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[03-Jan-2016 17:52:55 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Jan-2016 17:52:55 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jan-2016 03:42:21 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Jan-2016 03:42:21 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jan-2016 04:29:24 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Jan-2016 04:29:24 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jan-2016 04:29:35 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Jan-2016 04:29:35 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Jan-2016 04:29:35 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[04-Jan-2016 16:28:13 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Jan-2016 16:28:13 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jan-2016 23:34:02 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Jan-2016 23:34:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[04-Jan-2016 23:34:06 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[04-Jan-2016 23:34:07 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[04-Jan-2016 23:34:08 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[05-Jan-2016 00:06:18 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[05-Jan-2016 00:06:18 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[05-Jan-2016 00:06:19 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[05-Jan-2016 00:06:19 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[05-Jan-2016 00:06:19 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[06-Jan-2016 03:41:20 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[06-Jan-2016 03:41:20 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[06-Jan-2016 09:14:54 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[06-Jan-2016 09:14:54 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[06-Jan-2016 09:14:54 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[06-Jan-2016 15:04:16 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[06-Jan-2016 15:04:16 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[06-Jan-2016 15:04:16 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[06-Jan-2016 15:04:16 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[06-Jan-2016 15:04:16 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[07-Jan-2016 10:42:03 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[07-Jan-2016 10:42:03 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[07-Jan-2016 10:42:05 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[07-Jan-2016 10:42:05 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[07-Jan-2016 10:42:05 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[08-Jan-2016 01:08:45 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Jan-2016 01:08:46 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[09-Jan-2016 06:17:10 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[09-Jan-2016 06:17:10 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[09-Jan-2016 06:17:13 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[09-Jan-2016 06:17:13 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[09-Jan-2016 06:17:13 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115
+[09-Jan-2016 07:58:57 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[09-Jan-2016 07:58:57 Asia/Bangkok] PHP Notice:  A session had already been started - ignoring session_start() in /home/truongph/public_html/qlkh/check-login.php on line 2
+[09-Jan-2016 07:58:59 Asia/Bangkok] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[09-Jan-2016 07:58:59 Asia/Bangkok] PHP Notice:  Undefined index: email in /home/truongph/public_html/qlkh/login.php on line 113
+[09-Jan-2016 07:58:59 Asia/Bangkok] PHP Notice:  Undefined index: password in /home/truongph/public_html/qlkh/login.php on line 115

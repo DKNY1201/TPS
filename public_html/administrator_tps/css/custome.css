@@ -1,0 +1,36 @@
+/* CSS Document */
+
+.btn-add{
+	padding:8px 10px !important;
+	margin:0 0 10px;
+	text-decoration:none;
+	color:#fff;
+}
+
+.header-table{
+	text-transform:uppercase;
+}
+
+.btn-choose-img{
+	margin-bottom:9px;
+}
+
+.title{
+	font-weight:bold;
+	border-bottom:1px solid #ccc;
+	text-transform:uppercase;
+	margin:0 0 20px;
+	display:block;
+	box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	-webkit-box-sizing:content-box;
+	-o-box-sizing:content-box;
+	-ms-box-sizing:content-box;
+}
+
+.title h3{
+	border-bottom:2px solid #ed3237;
+	padding:0 0 5px;
+	display:inline-block;
+	line-height:24px;
+}

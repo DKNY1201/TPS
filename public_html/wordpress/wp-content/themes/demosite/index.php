@@ -1,0 +1,11 @@
+<?php
+	get_header();
+?>
+<?php 
+	get_template_part('home','slider');
+	get_template_part('home','intro'); 
+	get_template_part('home','concept'); 
+?>
+<?php
+	get_footer();
+?>
