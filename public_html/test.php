@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 	mysql_connect("localhost","truongph_quytv","123@123a");
 	mysql_select_db("truongph_truongphu");
@@ -15,4 +15,5 @@
 		mysql_query($sql) or die(mysql_error());
 	}
 	*/
+	xin chao quy dai ca
 ?>

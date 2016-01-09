@@ -1439,61 +1439,109 @@
 		
 		function AddSlider(&$error){
 			$success=true;
-			$news_type=$_POST['news_type'];
-			$name_vn=$_POST['namevn'];
-			$name_en=$_POST['nameen'];
-			$url=$this->changeTitle($name_vn);
-			$img=$_POST['img'];
-			$sum_vn=$_POST['sum_vn'];
-			$sum_en=$_POST['sum_en'];
-			$content_vn=$_POST['content_vn'];
-			$content_en=$_POST['content_en'];
-			$date=$_POST['date'];			
-			$feature=$_POST['feature'];
-			$thutu=$_POST['thutu'];
-			$anhien=$_POST['anhien'];
+			$background=$_POST['background'];
+			$link=$_POST['link'];
+			$caption1vn=$_POST['caption1vn'];
+			$caption1en=$_POST['caption1en'];
+			$caption2vn=$_POST['caption2vn'];
+			$caption2en=$_POST['caption2en'];
+			$investorvn=$_POST['investorvn'];
+			$investoren=$_POST['investoren'];
+			$scale=$_POST['scale'];
+			$year=$_POST['year'];
+			$nOrder=$_POST['nOrder'];
+			$isShow=$_POST['isShow'];
 			
-			settype($news_type,"int");
-			settype($feature,"int");
-			settype($thutu,"int");
-			settype($anhien,"int");
-			trim(strip_tags($name_vn));
-			trim(strip_tags($name_en));
-			trim(strip_tags($img));
-			trim(strip_tags($date));
+			settype($scale,"int");
+			settype($year,"int");
+			settype($nOrder,"int");
+			settype($isShow,"int");
+			trim(strip_tags($background));
+			trim(strip_tags($link));
+			trim(strip_tags($caption1vn));
+			trim(strip_tags($caption1en));
+			trim(strip_tags($caption2vn));
+			trim(strip_tags($caption2en));
+			trim(strip_tags($investorvn));
+			trim(strip_tags($investoren));
 			if(get_magic_quotes_gpc()==false)
 			{
-				$name_vn=mysql_real_escape_string($name_vn);
-				$name_en=mysql_real_escape_string($name_en);
-				$img=mysql_real_escape_string($img);
-				$date=mysql_real_escape_string($date);
+				$background=mysql_real_escape_string($background);
+				$link=mysql_real_escape_string($link);
+				$caption1vn=mysql_real_escape_string($caption1vn);
+				$caption1en=mysql_real_escape_string($caption1en);
+				$caption2vn=mysql_real_escape_string($caption2vn);
+				$caption2en=mysql_real_escape_string($caption2en);
+				$investorvn=mysql_real_escape_string($investorvn);
+				$investoren=mysql_real_escape_string($investoren);
 			}
-			$date_arr=explode("/",$date);
-			if(count($date_arr)==3)
-			{
-				$d=$date_arr[0];	
-				$m=$date_arr[1];
-				$y=$date_arr[2];
-				if(checkdate($m,$d,$y)==true)
-					$date=$y."-".$m."-".$d;
-				else
-				{
-					$success=false;
-					$error['date']="Ngày đăng tin không hợp lệ";
-				}
-			}
-			else
-			{
-				$success=false;
-				$error['date']="Ngày đăng tin không hợp lệ";
-			}
-			/*
+			
+			
 			if($success==true)
 			{
-				$sql="INSERT INTO news (idNT,name_vn,name_en,url,img,sum_vn,sum_en,content_vn,content_en,date,feature,hits,thutu,anhien) VALUES ($news_type,'$name_vn','$name_en','$url','$img','$sum_vn','$sum_en','$content_vn','$content_en','$date',$feature,0,$thutu,$anhien)";
+				$sql="INSERT INTO slider (background,link,caption1_vn,caption1_en,caption2_vn,caption2_en,investor_vn,investor_en,scale,year,isShow,nOrder) VALUES ('$background','$link','$caption1vn','$caption1en','$caption2vn','$caption2en','$investorvn','$investoren',$scale,$year,$isShow,$nOrder)";
 				mysql_query($sql) or die(mysql_error());
-			}*/
+			}
 			return $success;
 		}//end AddSlider
+
+		function EditSlider($idSlider,&$error){
+			$success=true;
+			$background=$_POST['background'];
+			$link=$_POST['link'];
+			$caption1vn=$_POST['caption1vn'];
+			$caption1en=$_POST['caption1en'];
+			$caption2vn=$_POST['caption2vn'];
+			$caption2en=$_POST['caption2en'];
+			$investorvn=$_POST['investorvn'];
+			$investoren=$_POST['investoren'];
+			$scale=$_POST['scale'];
+			$year=$_POST['year'];
+			$nOrder=$_POST['nOrder'];
+			$isShow=$_POST['isShow'];
+			
+			settype($scale,"int");
+			settype($year,"int");
+			settype($nOrder,"int");
+			settype($isShow,"int");
+			trim(strip_tags($background));
+			trim(strip_tags($link));
+			trim(strip_tags($caption1vn));
+			trim(strip_tags($caption1en));
+			trim(strip_tags($caption2vn));
+			trim(strip_tags($caption2en));
+			trim(strip_tags($investorvn));
+			trim(strip_tags($investoren));
+			if(get_magic_quotes_gpc()==false)
+			{
+				$background=mysql_real_escape_string($background);
+				$link=mysql_real_escape_string($link);
+				$caption1vn=mysql_real_escape_string($caption1vn);
+				$caption1en=mysql_real_escape_string($caption1en);
+				$caption2vn=mysql_real_escape_string($caption2vn);
+				$caption2en=mysql_real_escape_string($caption2en);
+				$investorvn=mysql_real_escape_string($investorvn);
+				$investoren=mysql_real_escape_string($investoren);
+			}
+			
+			
+			if($success==true)
+			{
+				$sql="UPDATE slider SET background='$background',link='$link',caption1_vn='$caption1vn',caption1_en='$caption1en',caption2_vn='$caption2vn',caption2_en='$caption2en',investor_vn='$investorvn',investor_en='$investoren',scale=$scale,year=$year,isShow=$isShow,nOrder=$nOrder WHERE idSlider = $idSlider";
+				mysql_query($sql) or die(mysql_error());
+			}
+			return $success;
+		}//end EditSlider
+
+		function DetailSlider($idSlider){
+			$sql = "SELECT * FROM slider WHERE idSlider = $idSlider";
+			$re = mysql_query($sql) or die(mysql_error());
+			return $re;
+		}
+
+		function DelSlider($idSlider){
+			$sql = "DELETE FROM slider WHERE idSlider=$idSlider";
+			mysql_query($sql) or die(mysql_error());
+		}
 	}
 ?>

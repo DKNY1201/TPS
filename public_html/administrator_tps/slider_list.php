@@ -8,18 +8,17 @@
 <table class="table table-striped table-bordered dTableR" id="dt_a">
     <thead>
       <tr>
-        <th>Background</th>
-        <th>Link dự án</th>
+        <th>Background / Link dự án</th>
         <th>Tiêu đề 1 VN</th>
         <th>Tiêu đề 1 EN</th>
-		<th>Tiêu đề 2 VN</th>
+		    <th>Tiêu đề 2 VN</th>
         <th>Tiêu đề 2 EN</th>
         <th>Chủ đầu tư VN</th>
         <th>Chủ đầu tư EN</th>
         <th>Quy mô (m2)</th>
         <th>Năm hoàn thành</th>
         <th>Thứ tự</th>
-		<th>Ẩn hiện</th>
+		    <th>Ẩn hiện</th>
         <th>Hành động</th>
       </tr>
     </thead>
@@ -31,21 +30,21 @@
       <tr>
         <td>
             <a href="{background}" title="{caption1vn}" target="_blank">
-                <img src="{background}" alt="" />
+                <img width="150px" src="{background}" alt="" />
             </a>
+            <a href="{link}" target="_blank" />{link}</a>
         </td>
-        <td><a href="{link}" target="_blank" />{link}</a></td>
         <td>{caption1vn}</td>
-		<td>{caption1en}</td>
+		    <td>{caption1en}</td>
         <td>{caption2vn}</td>
         <td>{caption2en}</td>
         <td>{investorvn}</td>
-		<td>{investoren}</td>
+		    <td>{investoren}</td>
         <td>{scale}</td>
-		<td>{year}</td>
+		    <td>{year}</td>
         <td>{order}</td>
         <td>{isshow}</td>
-        <td><a class="icon-edit" title="Chỉnh sửa" href="index.php?p=slider_edit&idSlider={ID}"></a> <a onclick="return confirm('Bạn muốn xóa slider {title1vn}?')" class="icon-remove" title="Xóa" href="slidert_del.php?idSlider={ID}"></a></td>
+        <td><a class="icon-edit" title="Chỉnh sửa" href="index.php?p=slider_edit&idSlider={ID}"></a> <a onclick="return confirm('Bạn muốn xóa slider {caption1vn}?')" class="icon-remove" title="Xóa" href="slider_del.php?idSlider={ID}"></a></td>
       </tr>
       <?php
 			$str=ob_get_clean();
